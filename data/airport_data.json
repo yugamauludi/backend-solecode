@@ -1,0 +1,22 @@
+[
+    {
+        "code": "CGK",
+        "name": "Soekarno Hatta International Airport",
+        "city": "Jakarta"
+    },
+    {
+        "code": "YIA",
+        "name": "Yogyakarta International Airport",
+        "city": "Yogyakarta"
+    },
+    {
+        "code": "DPS",
+        "name": "Ngurah Rai International Airport",
+        "city": "Denpasar"
+    },
+    {
+        "code": "SIN",
+        "name": "Changi International Airport",
+        "city": "Singapore"
+    }
+]

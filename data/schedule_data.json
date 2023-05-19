@@ -1,0 +1,42 @@
+[
+    {
+        "airlines": "GA",
+        "airlineId": 1,
+        "departure_airport": "CGK",
+        "airportDepartureId": 1,
+        "departure_time": "2021-08-17T08:20",
+        "arival_airport": "SIN",
+        "airportArriveId": 4,
+        "arival_time": "2021-08-17T10:50"
+    },
+    {
+        "airlines": "SQ",
+        "airlineId": 2,
+        "departure_airport": "CGK",
+        "airportDepartureId": 1,
+        "departure_time": "2021-08-17T17:00",
+        "arival_airport": "SIN",
+        "airportArriveId": 4,
+        "arival_time": "2021-08-17T19:30"
+    },
+    {
+        "airlines": "QZ",
+        "airlineId": 3,
+        "departure_airport": "CGK",
+        "airportDepartureId": 1,
+        "departure_time": "2021-08-17T10:05",
+        "arival_airport": "DPS",
+        "airportArriveId": 3,
+        "arival_time": "2021-08-17T12:20"
+    },
+    {
+        "airlines": "GA",
+        "airlineId": 1,
+        "departure_airport": "CGK",
+        "airportDepartureId": 1,
+        "departure_time": "2021-08-17T13:10",
+        "arival_airport": "YIA",
+        "airportArriveId": 2,
+        "arival_time": "2021-08-17T14:20"
+    }
+]
